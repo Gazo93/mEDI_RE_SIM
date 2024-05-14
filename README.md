@@ -4,7 +4,7 @@ In total there are 1600 measurements and 1600 calculations with ALFA.
 
 Parameters include:
 - **Day &amp; Time**, 
-- Daylight / Electric light,
-- Direction of view,
-- Position (distance from window),
-- Sky Type.
+- **Daylight / Electrical lighting**,
+- **Direction of view**,
+- **Position (distance from window)**,
+- **Sky Type**.
