@@ -20,6 +20,7 @@ Columns in dataset:
 - **mEDI**: the value of the measured melanopic Equivalent Daylight Illuminance
 - **RECOMMENDATION**: measured mEDI value above or below the threshold (mEDI >= 250)
 - **SKY TYPE**: the sky type during the measurement - the same sky type was used for the simulation
-  
-- ALFA mEDI: the calculated value of melanopic Equivalent Daylight Illuminance using ALFA simulation
-- ALFA RECOMMENDATION: calculated mEDI value above or below the threshold (mEDI >= 250)
+- **ALFA mEDI**: the calculated value of melanopic Equivalent Daylight Illuminance using ALFA simulation
+- **ALFA RECOMMENDATION**: calculated mEDI value above or below the threshold (mEDI >= 250)
+Threshold suggested by Brown T.M. et al. “Recommendations for daytime, evening, and nighttime indoor light exposure to best...”; PLoS Biol 20(3): e3001571
+Note: mEDI calculations at 17:00 in ALFA in the "DL" case were not possible (due to low daylight), so mEDI values were set to 0
