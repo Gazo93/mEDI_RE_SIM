@@ -3,8 +3,8 @@ mEDI measurements and mEDI calculations using ALFA simulations for a period of 1
 In total there are 1600 measurements and 1600 calculations with ALFA.
 
 Parameters include:
-Day & Time,
-Daylight / Electric light,
-Direction of view,
-Position (distance from window),
-Sky Type.
+- **Day &amp; Time**, 
+- Daylight / Electric light,
+- Direction of view,
+- Position (distance from window),
+- Sky Type.
